@@ -11,4 +11,4 @@
 3. git reset --hard - отменяет вообще все изменения в проекте до начального состояния
 4. git remote -v - показывает привязку к github
 5. git init - инициализирует проект для git
-6. git remote add [name] [rep_link] (rep_link берется с сайта GitHub)
+6. git remote add [name] [rep_link] (rep_link берется с сайта GitHub) - привязка к репозиторию на GitHub

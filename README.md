@@ -16,3 +16,5 @@
 8. git branch [branch_name] - добавить новую ветку
 9. git checkout [branch_name] - переключиться на ветку
 10. git pull [rep_link] [branch_name] - забирает изменения из удаленного репозитория
+11. git branch -d [branch_name] - удалить ветку локально
+12. git merge [branch_name] - забирает изменения из удаленного репозитория. После нужно использовать команду git push

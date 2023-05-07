@@ -2,7 +2,7 @@
 2. git add [files] - добавляет файлы в stage
 3. git commit -m "comment" - запись в stage
 4. git log / git log --oneline
-5. git push [rep_link] [branch_name]
+5. git push [rep_link] [branch_name] - отправляет изменения на удаленный репозиторий
 
 Другие команды:
 
@@ -15,3 +15,4 @@
 7. git branch - посмотреть какие есть ветки
 8. git branch [branch_name] - добавить новую ветку
 9. git checkout [branch_name] - переключиться на ветку
+10. git pull [rep_link] [branch_name] - забирает изменения из удаленного репозитория
